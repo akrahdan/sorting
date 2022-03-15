@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -std=c++14  -rdynamic CMakeFiles/lab5.dir/main.cpp.o CMakeFiles/lab5.dir/isPalindrome.cpp.o CMakeFiles/lab5.dir/PrecondViolatedExcep.cpp.o  -o lab5 
